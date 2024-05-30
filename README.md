@@ -19,7 +19,7 @@ $ pip install ai-test-tta
 You can check the sources with the command
 
 ```shell
-$ git clone https://github.com/scikit-learn/ai-test-tta.git
+$ git clone https://github.com/aitestlabtta/TTA-AI-TEST-LAB.git
 ```
 
 
